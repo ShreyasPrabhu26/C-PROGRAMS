@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<stdlib.h>1
+#include<stdlib.h>
 
 void main()
 {
@@ -13,7 +13,7 @@ void main()
     }
     for(i=0;i<5;i++)
     {
-    printf("THE ENTERED MARK IS: %d \n",i+1);
+    printf("THE ENTERED MARK OF STUDENT %d IS: %d\n",(i+1),marks[i]);
     }
     
 }

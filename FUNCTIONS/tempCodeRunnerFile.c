@@ -1,2 +1,1 @@
-    printf("----------\n");
-    invertedpattern(n);
+#include <stdio.h>
